@@ -38,10 +38,5 @@ Desenvolver uma solução de comunicação segura dentro da rede **ContextNet**,
    java -cp "target/dependency/*;app.jar" br.cefet.segaudit.Comunicador run [servidor] [porta] [uuid-sender] [privateKey-sender] [uuid-receiver] [receiver-publicKey]
 
 No caso desses comandos, o "sender" é o para o comunicador quie irá se registrar, e o "receiver" são os dados para qual vamos estabelecer a conexão.
-   
-## Futuras Implementações
-- Melhorias na interface de usuário.
-- Implementação de novos algoritmos de criptografia.
-- Auditoria de segurança automatizada.
 
 ## CEFET-RJ, Sistemas de Informação
